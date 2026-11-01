@@ -4,7 +4,7 @@ import requests
 import xml.etree.ElementTree as ET
 from urllib.parse import quote_plus
 from bs4 import BeautifulSoup
-import os
+
 
 # ---------------- CONFIGURATION ----------------
 
